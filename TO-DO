@@ -1,0 +1,6 @@
+#Additions
+Add logging
+Add debug messages
+
+#Fix
+Get exclusive access on the global metadata file while modifying the file. (Read immediately followed by a write)
